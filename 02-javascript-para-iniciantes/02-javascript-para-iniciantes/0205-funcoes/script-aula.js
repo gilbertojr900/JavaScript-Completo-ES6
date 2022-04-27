@@ -62,17 +62,17 @@ function faltaVisitar(paisesVisitados) {
 
 console.log(totalPaises);
 
-var profissao = 'Designer';
+var profissao = 'Front-End';
 
 function dados() {
-  var nome = 'André';
-  var idade = 28;
+  var nome = 'Gilberto';
+  var idade = 31;
   function outrosDados() {
-    var endereco = 'Rio de Janeiro';
-    var idade = 29;
+    var endereco = 'Porto Algre';
+    var idade = 31;
     return `${nome}, ${idade}, ${endereco}, ${profissao}`;
   }
   return outrosDados();
 }
 
-console.log(dados()); // Retorna 'André, 29, Rio de Janeiro, Designer'
+console.log(dados()); // Retorna 'Gilberto, 31, Porto Alegre, Front-End'

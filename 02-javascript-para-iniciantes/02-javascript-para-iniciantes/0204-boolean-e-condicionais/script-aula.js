@@ -1,7 +1,7 @@
-var possuiGradruacao = false;
+var possuiGraduacao = false;
 var possuiDoutorado = true;
 
-if(possuiGradruacao) {
+if(possuiGraduacao) {
   console.log('É verdadeiro');
 } else if(possuiDoutorado) {
   console.log('Possui Doutorado');
@@ -17,8 +17,8 @@ if(nome) {
   console.log('Nome não existe');
 }
 
-if(!possuiGradruacao) {
-  console.log(possuiGradruacao);
+if(!possuiGraduacao) {
+  console.log(possuiGraduacao);
   console.log('Não possui graduação');
 }
 

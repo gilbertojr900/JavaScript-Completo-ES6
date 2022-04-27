@@ -1,7 +1,7 @@
 // Verifique se a sua idade é maior do que a de algum parente
 // Dependendo do resultado coloque no console 'É maior', 'É igual' ou 'É menor'
-var minhaIdade = 28;
-var idadePrimo = 28;
+var minhaIdade = 31;
+var idadePrimo = 34;
 
 if(minhaIdade > idadePrimo) {
   console.log('É maior');
@@ -16,8 +16,8 @@ var expressao = (5 - 2) && (5 - 's') && (5 - 2);
 console.log(expressao);
 
 // Verifique se as seguintes variáveis são Truthy ou Falsy
-var nome = 'Andre';
-var idade = 28;
+var nome = 'Gilberto';
+var idade = 31;
 var possuiDoutorado = false;
 var empregoFuturo;
 var dinheiroNaConta = 0;
