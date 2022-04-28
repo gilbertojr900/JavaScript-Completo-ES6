@@ -1,6 +1,6 @@
 var pessoa = {
-  nome: 'André',
-  idade: 28,
+  nome: 'Gilberto',
+  idade: 31,
 }
 
 console.log(pessoa);

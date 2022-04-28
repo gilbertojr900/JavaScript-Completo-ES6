@@ -1,10 +1,10 @@
 // Crie um objeto com os seus dados pessoais
 // Deve possuir pelo menos duas propriedades nome e sobrenome
 var dados = {
-  nome: 'André',
-  sobrenome: 'Rafael',
-  idade: 28,
-  cidade: 'Rio de Janeiro',
+  nome: 'Gilberto',
+  sobrenome: 'Menegon',
+  idade: 31,
+  cidade: 'Porto Alegre',
 }
 
 // Crie um método no objeto anterior, que mostre o seu nome completo
