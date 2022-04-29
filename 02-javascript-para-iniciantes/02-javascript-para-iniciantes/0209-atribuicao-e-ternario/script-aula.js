@@ -15,6 +15,6 @@ console.log(podeBeber)
 
 var possuiFaculdade = false;
 if(possuiFaculdade)
-  console.log('Sim possui');
+  console.log('Sim, possui');
 else
-  console.log('Não possui')
+  console.log('Não, possui')
